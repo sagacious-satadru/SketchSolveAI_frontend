@@ -213,5 +213,5 @@ Contributions are welcome! Here's how you can help:
 ---
 
 Thank you for checking out **SketchSolveAI**! If you find this project interesting, please give it a star ⭐.
-```
+
 
