@@ -27,7 +27,8 @@ Welcome to **SketchSolveAI** – an AI-powered interactive calculator that bring
 ### **Frontend**  
 - **React.js with TypeScript**: Robust and type-safe user interface.  
 - **Vite**: Fast and efficient bundling and development.  
-- **Tailwind CSS**: Utility-first CSS for rapid styling.  
+- **Tailwind CSS**: Utility-first CSS for rapid styling.
+- **shadcn/ui**: For beautifully styled, reusable components. 
 - **React Draggable**: Enables draggable result components.  
 - **Axios**: Handles HTTP requests to the backend.  
 - **MathJax**: Beautiful rendering of mathematical notation.  
